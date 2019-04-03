@@ -1,6 +1,6 @@
 # python-test (first time working on time series data)
 Suggestions are appreciated.
-(Work is still under progress, some graph plot and Regression, SVM and ensemble Machine Learning Analysis is on its way)
+(Work is still under progress, some graph plot, Correlation plot and future stock prediction using Regression, SVM and ensemble Machine Learning Analysis is on its way)
 
 Time Series Analysis
 Stock prices for TCS and INFOSYS and NIFTYIT Index.
